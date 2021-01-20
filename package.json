@@ -15,7 +15,7 @@
   "dependencies": {
     "node-libs-react-native": "petejkim/node-libs-react-native#8b5a3a9700a08f6a1d8f58819479bf4d4d589970",
     "react": "16.0.0-alpha.12",
-    "react-native": "0.46.0",
+    "react-native": "0.48.4",
     "react-native-navigation": "^1.1.134",
     "react-native-wkwebview-reborn": "petejkim/react-native-wkwebview#a38c83174bdf6a0b0edc6f3aa7acb8885e7c2d96"
   },
